@@ -5,9 +5,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: kostasmammas
+disqus: yaxuanyu
 google_analytics: Personal Blog
-title: Kostas Mammas
+title: Yaxuan Yu
 
 defaults:
   -
@@ -18,7 +18,7 @@ defaults:
 
 description: 
 author:
-  name: Kostas Mammas
+  name: Yaxuan Yu
   email: mammas_k@live.com
   github: mammask
   twitter: mammaskon
